@@ -1,0 +1,4 @@
+WEBVTT
+
+00:00.000 --> 01:05.000
+[Intro music and visuals showcasing the TechCon 2024 conference theme. Highlights of keynote speakers, workshops, and networking events. Register now to be part of the tech revolution.]
